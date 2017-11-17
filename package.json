@@ -1,0 +1,23 @@
+{
+  "name": "corsojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "http-server -p 8080 -s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veronicascimone/corsojs.git"
+  },
+  "author": "Veronica Scimone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veronicascimone/corsojs/issues"
+  },
+  "homepage": "https://github.com/veronicascimone/corsojs#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
